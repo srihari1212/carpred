@@ -1,5 +1,5 @@
-# carpred
+
 
 
 URL:
-https://carprice--predic.herokuapp.com/predict
+https://carprice--predic.herokuapp.com

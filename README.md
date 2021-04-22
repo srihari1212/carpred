@@ -36,7 +36,8 @@ python app.py
 ├── Procfile                                            #file for Heroku deployment
 ├── README.md
 ├── car data.csv                                        #dataset
-├── random_forest_regression_model.pkl.ipynb            #File which generated all pkl files
+├── random_forest_regression_model.pkl
+├── untitled.ipynb                                      #File which generated  pkl files
 ├── requirements.txt
 └── app.py                                              #web server gateway Interface
 ```
